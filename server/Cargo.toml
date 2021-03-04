@@ -1,5 +1,5 @@
 [package]
-name = "rust-web"
+name = "webweaponlibray"
 version = "0.1.0"
 authors = ["James Zow <Jameszow@163.com>"]
 edition = "2018"
